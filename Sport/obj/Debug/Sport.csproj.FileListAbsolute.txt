@@ -1,0 +1,504 @@
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.csproj.SuggestedBindingRedirects.cache
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\ADMIN.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\LKPol.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\MainWindow.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Reg.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\App.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\ADMIN.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\LKPol.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\MainWindow.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Reg.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.g.resources
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Blyda.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Pol.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Prog.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDBlyda.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDPol.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDProg.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Zanatiya.g.cs
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Blyda.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Pol.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Prog.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDBlyda.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDKyrsy.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDPol.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\REDProg.baml
+C:\Users\irade\OneDrive\Desktop\Диплом\Sport\Sport\obj\Debug\Zanatiya.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\ADMIN.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Blyda.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\LKPol.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\MainWindow.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\PDiet.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Pol.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\PProg.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Prog.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDBlyda.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDPol.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDProg.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Reg.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Zanatiya.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\App.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\ADMIN.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Blyda.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\LKPol.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\MainWindow.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\PDiet.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Pol.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\PProg.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Prog.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDBlyda.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDKyrsy.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDPol.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\REDProg.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Reg.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Zanatiya.baml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.g.resources
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport_Content.g.cs
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\EntityFramework.dll
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\EntityFramework.xml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\123\OneDrive\Рабочий стол\sp\Sport\Sport\obj\Debug\Sport.csproj.CopyComplete
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\Sport.exe.config
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\Sport.exe
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\Sport.pdb
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\EntityFramework.dll
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\EntityFramework.xml
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+D:\для работы\Диплом\нов\sp\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.csproj.SuggestedBindingRedirects.cache
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\ADMIN.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Blyda.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\LKPol.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\MainWindow.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PDiet.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Pol.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PProg.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Prog.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDBlyda.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDPol.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDProg.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Reg.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Zanatiya.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\App.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport_Content.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\ADMIN.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Blyda.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\LKPol.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\MainWindow.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PDiet.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Pol.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PProg.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Prog.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDBlyda.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDKyrsy.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDPol.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\REDProg.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Reg.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Zanatiya.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.g.resources
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.csproj.CopyComplete
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.exe
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\Sport.pdb
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\ADMRedakProfilya.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\ADMRedakProfilya.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PDopProg.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PolRedProfil.g.cs
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PDopProg.baml
+D:\для работы\Диплом\нов\sp\Sport\Sport\obj\Debug\PolRedProfil.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\ADMIN.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\ADMRedakProfilya.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Blyda.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\LKPol.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\MainWindow.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PDiet.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PDopProg.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Pol.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PolRedProfil.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PProg.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Prog.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDBlyda.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDPol.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDProg.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Reg.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Zanatiya.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\App.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport_Content.g.cs
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\EntityFramework.dll
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\EntityFramework.xml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\ADMIN.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\ADMRedakProfilya.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Blyda.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\LKPol.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\MainWindow.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PDiet.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PDopProg.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Pol.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PolRedProfil.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\PProg.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Prog.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDBlyda.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDKyrsy.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDPol.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\REDProg.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Reg.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Zanatiya.baml
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.g.resources
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\Mystdwyse\Desktop\супер готовые лабы\Sport\Sport\obj\Debug\Sport.csproj.Up2Date
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\Sport.exe.config
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\Sport.exe
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\Sport.pdb
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\EntityFramework.dll
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\EntityFramework.xml
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+D:\для работы\Диплом\нов2\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.csproj.SuggestedBindingRedirects.cache
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\ADMIN.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\ADMRedakProfilya.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Blyda.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\LKPol.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\MainWindow.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDiet.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDopProg.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Pol.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PolRedProfil.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PProg.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Prog.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDBlyda.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDPol.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDProg.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Reg.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Zanatiya.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\App.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport_Content.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\ADMIN.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\ADMRedakProfilya.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Blyda.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\LKPol.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\MainWindow.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDiet.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDopProg.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Pol.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PolRedProfil.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PProg.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Prog.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDBlyda.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDKyrsy.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDPol.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\REDProg.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Reg.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Zanatiya.baml
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.g.resources
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.csproj.CopyComplete
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.exe
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\Sport.pdb
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDobDiet.g.cs
+D:\для работы\Диплом\нов2\Sport\Sport\obj\Debug\PDobDiet.baml
+F:\Диплом\Sport\Sport\bin\Debug\Sport.exe.config
+F:\Диплом\Sport\Sport\bin\Debug\Sport.exe
+F:\Диплом\Sport\Sport\bin\Debug\Sport.pdb
+F:\Диплом\Sport\Sport\bin\Debug\EntityFramework.dll
+F:\Диплом\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+F:\Диплом\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+F:\Диплом\Sport\Sport\bin\Debug\EntityFramework.xml
+F:\Диплом\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+F:\Диплом\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+F:\Диплом\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+F:\Диплом\Sport\Sport\obj\Debug\Sport.csprojAssemblyReference.cache
+F:\Диплом\Sport\Sport\obj\Debug\ADMIN.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\ADMRedakProfilya.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Blyda.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\LKPol.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\MainWindow.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\PDiet.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\PDobDiet.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\PDopProg.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Pol.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\PolRedProfil.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\PProg.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Prog.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\REDBlyda.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\REDPol.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\REDProg.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Reg.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Zanatiya.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\App.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Sport_Content.g.cs
+F:\Диплом\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+F:\Диплом\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+F:\Диплом\Sport\Sport\obj\Debug\ADMIN.baml
+F:\Диплом\Sport\Sport\obj\Debug\ADMRedakProfilya.baml
+F:\Диплом\Sport\Sport\obj\Debug\Blyda.baml
+F:\Диплом\Sport\Sport\obj\Debug\LKPol.baml
+F:\Диплом\Sport\Sport\obj\Debug\MainWindow.baml
+F:\Диплом\Sport\Sport\obj\Debug\PDiet.baml
+F:\Диплом\Sport\Sport\obj\Debug\PDobDiet.baml
+F:\Диплом\Sport\Sport\obj\Debug\PDopProg.baml
+F:\Диплом\Sport\Sport\obj\Debug\Pol.baml
+F:\Диплом\Sport\Sport\obj\Debug\PolRedProfil.baml
+F:\Диплом\Sport\Sport\obj\Debug\PProg.baml
+F:\Диплом\Sport\Sport\obj\Debug\Prog.baml
+F:\Диплом\Sport\Sport\obj\Debug\REDBlyda.baml
+F:\Диплом\Sport\Sport\obj\Debug\REDKyrsy.baml
+F:\Диплом\Sport\Sport\obj\Debug\REDPol.baml
+F:\Диплом\Sport\Sport\obj\Debug\REDProg.baml
+F:\Диплом\Sport\Sport\obj\Debug\Reg.baml
+F:\Диплом\Sport\Sport\obj\Debug\Zanatiya.baml
+F:\Диплом\Sport\Sport\obj\Debug\Sport.g.resources
+F:\Диплом\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+F:\Диплом\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+F:\Диплом\Sport\Sport\obj\Debug\Sport.csproj.CopyComplete
+F:\Диплом\Sport\Sport\obj\Debug\Sport.exe
+F:\Диплом\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\ADMIN.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\ADMRedakProfilya.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Blyda.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\LKPol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\MainWindow.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDiet.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDobDiet.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDopProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Pol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PolRedProfil.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Prog.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDBlyda.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDKyrsy.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDPol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Reg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Zanatiya.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\App.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport_Content.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport_MarkupCompile.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport_MarkupCompile.lref
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\EntityFramework.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\EntityFramework.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\ADMIN.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\ADMRedakProfilya.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Blyda.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\LKPol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\MainWindow.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDiet.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDobDiet.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PDopProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Pol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PolRedProfil.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Prog.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDBlyda.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDKyrsy.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDPol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\REDProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Reg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Zanatiya.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.g.resources
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\Sport.csproj.Up2Date
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PTekVes.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\Sport\Sport\obj\Debug\PTekVes.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\Sport.exe.config
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ADMIN.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ADMRedakProfilya.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Blyda.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\LKPol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\MainWindow.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDiet.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDobDiet.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDopProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Pol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PolRedProfil.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Prog.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PTekVes.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDBlyda.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDKyrsy.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDPol.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Reg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Zanatiya.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\App.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport_Content.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport_MarkupCompile.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport_MarkupCompile.lref
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ADMIN.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ADMRedakProfilya.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Blyda.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\LKPol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\MainWindow.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDiet.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDobDiet.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDopProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Pol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PolRedProfil.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Prog.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PTekVes.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDBlyda.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDKyrsy.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDPol.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\REDProg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Reg.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Zanatiya.baml
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.g.resources
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.Up2Date
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.exe
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ZanProg.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\ZanProg.baml
+F:\DIPLOM_Demakova\Sport\bin\Debug\Sport.exe.config
+F:\DIPLOM_Demakova\Sport\bin\Debug\Sport.exe
+F:\DIPLOM_Demakova\Sport\bin\Debug\Sport.pdb
+F:\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.dll
+F:\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.SqlServer.dll
+F:\DIPLOM_Demakova\Sport\bin\Debug\System.Data.SqlClient.dll
+F:\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.xml
+F:\DIPLOM_Demakova\Sport\bin\Debug\EntityFramework.SqlServer.xml
+F:\DIPLOM_Demakova\Sport\bin\Debug\System.Data.SqlClient.xml
+F:\DIPLOM_Demakova\Sport\bin\Debug\ru\EntityFramework.resources.dll
+F:\DIPLOM_Demakova\Sport\obj\Debug\ADMIN.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\ADMRedakProfilya.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Blyda.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\LKPol.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\MainWindow.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDiet.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDobDiet.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDopProg.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Pol.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PolRedProfil.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PProg.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Prog.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PTekVes.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDBlyda.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDKyrsy.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDPol.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDProg.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Reg.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Zanatiya.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\ZanProg.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\App.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport_Content.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport_MarkupCompile.cache
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport_MarkupCompile.lref
+F:\DIPLOM_Demakova\Sport\obj\Debug\ADMIN.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\ADMRedakProfilya.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Blyda.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\LKPol.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\MainWindow.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDiet.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDobDiet.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDopProg.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Pol.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PolRedProfil.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PProg.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Prog.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\PTekVes.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDBlyda.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDKyrsy.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDPol.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\REDProg.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Reg.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Zanatiya.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\ZanProg.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.g.resources
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.Properties.Resources.resources
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.exe
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.pdb
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDobBlyda.g.cs
+C:\Users\Mystdwyse\Desktop\диплом умнички\DIPLOM_Demakova\Sport\obj\Debug\PDobBlyda.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.csprojAssemblyReference.cache
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDobBlyda.g.cs
+F:\DIPLOM_Demakova\Sport\obj\Debug\PDobBlyda.baml
+F:\DIPLOM_Demakova\Sport\obj\Debug\Sport.csproj.CopyComplete

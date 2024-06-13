@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user45_dbModelContainer" CdmEntityContainer="user45_dbEntities4">
+    <EntitySetMapping Name="DIP_Blyado">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Blyado">
+        <MappingFragment StoreEntitySet="DIP_Blyado">
+          <ScalarProperty Name="kolorii" ColumnName="kolorii" />
+          <ScalarProperty Name="sostav" ColumnName="sostav" />
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_Blyada" ColumnName="id_Blyada" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Dieta">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Dieta">
+        <MappingFragment StoreEntitySet="DIP_Dieta">
+          <ScalarProperty Name="id_pol" ColumnName="id_pol" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="razmer_porcii" ColumnName="razmer_porcii" />
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_Vremya" ColumnName="id_Vremya" />
+          <ScalarProperty Name="id_Blyda" ColumnName="id_Blyda" />
+          <ScalarProperty Name="id_Diety" ColumnName="id_Diety" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_DN">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_DN">
+        <MappingFragment StoreEntitySet="DIP_DN">
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_DN" ColumnName="id_DN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Kyrs">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Kyrs">
+        <MappingFragment StoreEntitySet="DIP_Kyrs">
+          <ScalarProperty Name="vremya" ColumnName="vremya" />
+          <ScalarProperty Name="opisanie" ColumnName="opisanie" />
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_kyrs" ColumnName="id_kyrs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Polzovatel">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Polzovatel">
+        <MappingFragment StoreEntitySet="DIP_Polzovatel">
+          <ScalarProperty Name="Parol" ColumnName="Parol" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="Rost" ColumnName="Rost" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="Data_Rojdeniya" ColumnName="Data_Rojdeniya" />
+          <ScalarProperty Name="Othestvo" ColumnName="Othestvo" />
+          <ScalarProperty Name="Familiya" ColumnName="Familiya" />
+          <ScalarProperty Name="Imya" ColumnName="Imya" />
+          <ScalarProperty Name="ID_roli" ColumnName="ID_roli" />
+          <ScalarProperty Name="ID_Polzovatel" ColumnName="ID_Polzovatel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Programma">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Programma">
+        <MappingFragment StoreEntitySet="DIP_Programma">
+          <ScalarProperty Name="id_Pol" ColumnName="id_Pol" />
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_DN" ColumnName="id_DN" />
+          <ScalarProperty Name="id_kyrs" ColumnName="id_kyrs" />
+          <ScalarProperty Name="id_Programma" ColumnName="id_Programma" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Rol">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Rol">
+        <MappingFragment StoreEntitySet="DIP_Rol">
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="ID_Roli" ColumnName="ID_Roli" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Ves">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Ves">
+        <MappingFragment StoreEntitySet="DIP_Ves">
+          <ScalarProperty Name="id_pol" ColumnName="id_pol" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="ves" ColumnName="ves" />
+          <ScalarProperty Name="id_izn_ves" ColumnName="id_izn_ves" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIP_Vremya">
+      <EntityTypeMapping TypeName="user45_dbModel.DIP_Vremya">
+        <MappingFragment StoreEntitySet="DIP_Vremya">
+          <ScalarProperty Name="nazvanie" ColumnName="nazvanie" />
+          <ScalarProperty Name="id_vremya" ColumnName="id_vremya" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

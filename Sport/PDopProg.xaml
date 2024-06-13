@@ -1,0 +1,31 @@
+﻿<Window WindowStartupLocation="CenterScreen"  x:Class="Sport.PDopProg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sport"
+        mc:Ignorable="d"
+        Title="Добавить свою программу:" Height="450" Width="350" Icon="/gantelyAa.png">
+    <Grid>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="98,297,0,0" VerticalAlignment="Top" Height="32" Width="144" Click="Button_Click" FontFamily="Bahnschrift" Foreground="White" BorderBrush="#FF2F0D1F" Background="#FF876175">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Content="Отмена" HorizontalAlignment="Left" Margin="98,345,0,0" VerticalAlignment="Top" Height="32" Width="144" Click="Button_Click_1" FontFamily="Bahnschrift" Foreground="White" BorderBrush="#FF2F0D1F" Background="#FF876175">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <ComboBox Name ="CB1"  HorizontalAlignment="Left" Margin="110,160,0,0" VerticalAlignment="Top" Width="120" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848"/>
+        <Label Content="Занятие:" HorizontalAlignment="Left" Margin="110,134,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848"/>
+        <ComboBox Name ="CB3"  HorizontalAlignment="Left" Margin="110,230,0,0" VerticalAlignment="Top" Width="120" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848"/>
+        <Label Content="День недели:" HorizontalAlignment="Left" Margin="110,0,0,0" VerticalAlignment="Center" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848"/>
+        <TextBox Name="TB1" HorizontalAlignment="Left" Margin="110,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848" SelectionBrush="Black"/>
+        <Label Content="Название:" HorizontalAlignment="Left" Margin="110,90,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Bahnschrift" Foreground="#FF6D2848"/>
+    </Grid>
+</Window>

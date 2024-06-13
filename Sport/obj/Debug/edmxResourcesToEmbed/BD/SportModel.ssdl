@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище user45_dbModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DIP_Blyado">
+    <Key>
+      <PropertyRef Name="id_Blyada" />
+    </Key>
+    <Property Name="id_Blyada" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="sostav" Type="char" MaxLength="1000" />
+    <Property Name="kolorii" Type="char" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="DIP_Dieta">
+    <Key>
+      <PropertyRef Name="id_Diety" />
+    </Key>
+    <Property Name="id_Diety" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_Blyda" Type="int" Nullable="false" />
+    <Property Name="id_Vremya" Type="int" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="razmer_porcii" Type="char" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="DIP_DN">
+    <Key>
+      <PropertyRef Name="id_DN" />
+    </Key>
+    <Property Name="id_DN" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DIP_Kyrs">
+    <Key>
+      <PropertyRef Name="id_kyrs" />
+    </Key>
+    <Property Name="id_kyrs" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="FIO_trenera" Type="char" MaxLength="100" />
+    <Property Name="vremya" Type="char" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="DIP_Polzovatel">
+    <Key>
+      <PropertyRef Name="ID_Polzovatel" />
+    </Key>
+    <Property Name="ID_Polzovatel" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_roli" Type="int" Nullable="false" />
+    <Property Name="Imya" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="Familiya" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="Othestvo" Type="char" MaxLength="100" />
+    <Property Name="Data_Rojdeniya" Type="date" Nullable="false" />
+    <Property Name="email" Type="char" MaxLength="100" />
+    <Property Name="ID_Izn_Ves" Type="int" />
+    <Property Name="Rost" Type="int" Nullable="false" />
+    <Property Name="login" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="Parol" Type="char" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DIP_PP">
+    <Key>
+      <PropertyRef Name="id_PP" />
+    </Key>
+    <Property Name="id_PP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_Polzovatelya" Type="int" Nullable="false" />
+    <Property Name="id_Programmy" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DIP_Programma">
+    <Key>
+      <PropertyRef Name="id_Programma" />
+    </Key>
+    <Property Name="id_Programma" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_kyrs" Type="int" Nullable="false" />
+    <Property Name="id_Diety" Type="int" Nullable="false" />
+    <Property Name="id_DN" Type="int" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DIP_Rol">
+    <Key>
+      <PropertyRef Name="ID_Roli" />
+    </Key>
+    <Property Name="ID_Roli" Type="int" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DIP_Ves">
+    <Key>
+      <PropertyRef Name="id_izn_ves" />
+    </Key>
+    <Property Name="id_izn_ves" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ves" Type="char" MaxLength="100" />
+    <Property Name="date" Type="date" />
+  </EntityType>
+  <EntityType Name="DIP_Vremya">
+    <Key>
+      <PropertyRef Name="id_vremya" />
+    </Key>
+    <Property Name="id_vremya" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nazvanie" Type="char" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DIP_Dieta_DIP_Blyado">
+    <End Role="DIP_Blyado" Type="Self.DIP_Blyado" Multiplicity="1" />
+    <End Role="DIP_Dieta" Type="Self.DIP_Dieta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Blyado">
+        <PropertyRef Name="id_Blyada" />
+      </Principal>
+      <Dependent Role="DIP_Dieta">
+        <PropertyRef Name="id_Blyda" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Dieta_DIP_Vremya">
+    <End Role="DIP_Vremya" Type="Self.DIP_Vremya" Multiplicity="1" />
+    <End Role="DIP_Dieta" Type="Self.DIP_Dieta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Vremya">
+        <PropertyRef Name="id_vremya" />
+      </Principal>
+      <Dependent Role="DIP_Dieta">
+        <PropertyRef Name="id_Vremya" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Polzovatel_DIP_Rol">
+    <End Role="DIP_Rol" Type="Self.DIP_Rol" Multiplicity="1" />
+    <End Role="DIP_Polzovatel" Type="Self.DIP_Polzovatel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Rol">
+        <PropertyRef Name="ID_Roli" />
+      </Principal>
+      <Dependent Role="DIP_Polzovatel">
+        <PropertyRef Name="ID_roli" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Polzovatel_DIP_Ves">
+    <End Role="DIP_Ves" Type="Self.DIP_Ves" Multiplicity="0..1" />
+    <End Role="DIP_Polzovatel" Type="Self.DIP_Polzovatel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Ves">
+        <PropertyRef Name="id_izn_ves" />
+      </Principal>
+      <Dependent Role="DIP_Polzovatel">
+        <PropertyRef Name="ID_Izn_Ves" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_PP_DIP_Polzovatel">
+    <End Role="DIP_Polzovatel" Type="Self.DIP_Polzovatel" Multiplicity="1" />
+    <End Role="DIP_PP" Type="Self.DIP_PP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Polzovatel">
+        <PropertyRef Name="ID_Polzovatel" />
+      </Principal>
+      <Dependent Role="DIP_PP">
+        <PropertyRef Name="id_Polzovatelya" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_PP_DIP_Programma">
+    <End Role="DIP_Programma" Type="Self.DIP_Programma" Multiplicity="1" />
+    <End Role="DIP_PP" Type="Self.DIP_PP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Programma">
+        <PropertyRef Name="id_Programma" />
+      </Principal>
+      <Dependent Role="DIP_PP">
+        <PropertyRef Name="id_Programmy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Programma_DIP_Dieta">
+    <End Role="DIP_Dieta" Type="Self.DIP_Dieta" Multiplicity="1" />
+    <End Role="DIP_Programma" Type="Self.DIP_Programma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Dieta">
+        <PropertyRef Name="id_Diety" />
+      </Principal>
+      <Dependent Role="DIP_Programma">
+        <PropertyRef Name="id_Diety" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Programma_DIP_DN">
+    <End Role="DIP_DN" Type="Self.DIP_DN" Multiplicity="1" />
+    <End Role="DIP_Programma" Type="Self.DIP_Programma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_DN">
+        <PropertyRef Name="id_DN" />
+      </Principal>
+      <Dependent Role="DIP_Programma">
+        <PropertyRef Name="id_DN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIP_Programma_DIP_Kyrs">
+    <End Role="DIP_Kyrs" Type="Self.DIP_Kyrs" Multiplicity="1" />
+    <End Role="DIP_Programma" Type="Self.DIP_Programma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIP_Kyrs">
+        <PropertyRef Name="id_kyrs" />
+      </Principal>
+      <Dependent Role="DIP_Programma">
+        <PropertyRef Name="id_kyrs" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище user45_dbModelContainer">
+    <EntitySet Name="DIP_Blyado" EntityType="Self.DIP_Blyado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Dieta" EntityType="Self.DIP_Dieta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_DN" EntityType="Self.DIP_DN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Kyrs" EntityType="Self.DIP_Kyrs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Polzovatel" EntityType="Self.DIP_Polzovatel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_PP" EntityType="Self.DIP_PP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Programma" EntityType="Self.DIP_Programma" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Rol" EntityType="Self.DIP_Rol" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Ves" EntityType="Self.DIP_Ves" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIP_Vremya" EntityType="Self.DIP_Vremya" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DIP_Dieta_DIP_Blyado" Association="Self.FK_DIP_Dieta_DIP_Blyado">
+      <End Role="DIP_Blyado" EntitySet="DIP_Blyado" />
+      <End Role="DIP_Dieta" EntitySet="DIP_Dieta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Dieta_DIP_Vremya" Association="Self.FK_DIP_Dieta_DIP_Vremya">
+      <End Role="DIP_Vremya" EntitySet="DIP_Vremya" />
+      <End Role="DIP_Dieta" EntitySet="DIP_Dieta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Polzovatel_DIP_Rol" Association="Self.FK_DIP_Polzovatel_DIP_Rol">
+      <End Role="DIP_Rol" EntitySet="DIP_Rol" />
+      <End Role="DIP_Polzovatel" EntitySet="DIP_Polzovatel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Polzovatel_DIP_Ves" Association="Self.FK_DIP_Polzovatel_DIP_Ves">
+      <End Role="DIP_Ves" EntitySet="DIP_Ves" />
+      <End Role="DIP_Polzovatel" EntitySet="DIP_Polzovatel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_PP_DIP_Polzovatel" Association="Self.FK_DIP_PP_DIP_Polzovatel">
+      <End Role="DIP_Polzovatel" EntitySet="DIP_Polzovatel" />
+      <End Role="DIP_PP" EntitySet="DIP_PP" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_PP_DIP_Programma" Association="Self.FK_DIP_PP_DIP_Programma">
+      <End Role="DIP_Programma" EntitySet="DIP_Programma" />
+      <End Role="DIP_PP" EntitySet="DIP_PP" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Programma_DIP_Dieta" Association="Self.FK_DIP_Programma_DIP_Dieta">
+      <End Role="DIP_Dieta" EntitySet="DIP_Dieta" />
+      <End Role="DIP_Programma" EntitySet="DIP_Programma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Programma_DIP_DN" Association="Self.FK_DIP_Programma_DIP_DN">
+      <End Role="DIP_DN" EntitySet="DIP_DN" />
+      <End Role="DIP_Programma" EntitySet="DIP_Programma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIP_Programma_DIP_Kyrs" Association="Self.FK_DIP_Programma_DIP_Kyrs">
+      <End Role="DIP_Kyrs" EntitySet="DIP_Kyrs" />
+      <End Role="DIP_Programma" EntitySet="DIP_Programma" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

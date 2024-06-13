@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DIPLOM_Demakova\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "F:\\DIPLOM_Demakova\\Sport\\Sport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DIPLOM_Demakova\\Sport\\Sport.csproj",
+        "projectName": "Sport",
+        "projectPath": "F:\\DIPLOM_Demakova\\Sport\\Sport.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\DIPLOM_Demakova\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DIPLOM_Demakova\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "F:\\DIPLOM_Demakova\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Гость.B304-01.013\\.nuget\\packages\\",
+        "outputPath": "F:\\DIPLOM_Demakova\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Гость.B304-01.013\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net80": {
+            "projectReferences": {
+              "F:\\DIPLOM_Demakova\\Sport\\Sport.csproj": {
+                "projectPath": "F:\\DIPLOM_Demakova\\Sport\\Sport.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net80": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Microsoft.Playwright.NUnit": {
+              "target": "Package",
+              "version": "[1.27.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

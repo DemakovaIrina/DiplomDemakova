@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redblyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redblyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\redprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\blyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\blyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\zanatiya.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\zanatiya.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\zanatiya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\zanatiya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pdiet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdiet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pdiet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdiet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\pdobdiet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdobdiet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pdobdiet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdobdiet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\lkpol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\lkpol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\lkpol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\lkpol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\pdobblyda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdobblyda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\pdobblyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdobblyda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\bdmodel\\sportmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\bdmodel\\sportmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pdopprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdopprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\prog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\prog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\prog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\prog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redpol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redpol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redpol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redpol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redkyrsy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redkyrsy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\redkyrsy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\redkyrsy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\ptekves.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\ptekves.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\polredprofil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\polredprofil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pdopprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pdopprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\admredakprofilya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\admredakprofilya.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|c:\\users\\mystdwyse\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\diplom_demakova\\sport\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\pprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\pprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\zanprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\zanprog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\zanprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\zanprog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\blyda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\blyda.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\sport\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9347D91-DAD9-40B1-84A1-462EECE9E815}|Sport\\Sport.csproj|solutionrelative:sport\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ADMIN.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMIN.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\ADMIN.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMIN.xaml.cs",
+              "RelativeToolTip": "Sport\\ADMIN.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:07:30.503Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Pol.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Pol.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\Pol.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Pol.xaml.cs",
+              "RelativeToolTip": "Sport\\Pol.xaml.cs",
+              "ViewState": "AQIAAKYAAAAAmJmZmZn9v8AAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:07:54.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zanatiya.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Zanatiya.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\Zanatiya.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Zanatiya.xaml.cs",
+              "RelativeToolTip": "Sport\\Zanatiya.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAIA3wFsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:08:06.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Blyda.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Blyda.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\Blyda.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Blyda.xaml.cs",
+              "RelativeToolTip": "Sport\\Blyda.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:08:20.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LKPol.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\LKPol.xaml",
+              "RelativeDocumentMoniker": "Sport\\LKPol.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\LKPol.xaml",
+              "RelativeToolTip": "Sport\\LKPol.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T09:37:42.424Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LKPol.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\LKPol.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\LKPol.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\LKPol.xaml.cs",
+              "RelativeToolTip": "Sport\\LKPol.xaml.cs",
+              "ViewState": "AQIAAHwAAACAzMzMzAwnwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:37:31.453Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PProg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PProg.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\PProg.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PProg.xaml.cs",
+              "RelativeToolTip": "Sport\\PProg.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEEAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:39:44.063Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PDiet.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDiet.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\PDiet.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDiet.xaml.cs",
+              "RelativeToolTip": "Sport\\PDiet.xaml.cs",
+              "ViewState": "AQIAAEwAAAAAaGZmZmYTwFkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:43:26.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ZanProg.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ZanProg.xaml",
+              "RelativeDocumentMoniker": "Sport\\ZanProg.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ZanProg.xaml",
+              "RelativeToolTip": "Sport\\ZanProg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:57:31.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ZanProg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ZanProg.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\ZanProg.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ZanProg.xaml.cs",
+              "RelativeToolTip": "Sport\\ZanProg.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:48:09.561Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PDobBlyda.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobBlyda.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\PDobBlyda.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobBlyda.xaml.cs",
+              "RelativeToolTip": "Sport\\PDobBlyda.xaml.cs",
+              "ViewState": "AQIAABQAAACg/////z84wDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:48:30.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PDobBlyda.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobBlyda.xaml",
+              "RelativeDocumentMoniker": "Sport\\PDobBlyda.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobBlyda.xaml",
+              "RelativeToolTip": "Sport\\PDobBlyda.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:36:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Prog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Prog.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\Prog.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Prog.xaml.cs",
+              "RelativeToolTip": "Sport\\Prog.xaml.cs",
+              "ViewState": "AQIAACAAAACYITMzMzMOwDIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:27:07.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "REDPol.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDPol.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\REDPol.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDPol.xaml.cs",
+              "RelativeToolTip": "Sport\\REDPol.xaml.cs",
+              "ViewState": "AQIAAKcAAAAA2P/////7v7EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:16:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reg.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Reg.xaml",
+              "RelativeDocumentMoniker": "Sport\\Reg.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Reg.xaml",
+              "RelativeToolTip": "Sport\\Reg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:13:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "REDProg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDProg.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\REDProg.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDProg.xaml.cs",
+              "RelativeToolTip": "Sport\\REDProg.xaml.cs",
+              "ViewState": "AQIAAJIAAAAAgZmZmZkUwIcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:06:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "REDPol.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDPol.xaml",
+              "RelativeDocumentMoniker": "Sport\\REDPol.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDPol.xaml",
+              "RelativeToolTip": "Sport\\REDPol.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:04:58.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "REDKyrsy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDKyrsy.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\REDKyrsy.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDKyrsy.xaml.cs",
+              "RelativeToolTip": "Sport\\REDKyrsy.xaml.cs",
+              "ViewState": "AQIAAC0AAABg/f///z8hwFsAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:03:34.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "REDKyrsy.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDKyrsy.xaml",
+              "RelativeDocumentMoniker": "Sport\\REDKyrsy.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDKyrsy.xaml",
+              "RelativeToolTip": "Sport\\REDKyrsy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:02:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "REDBlyda.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDBlyda.xaml",
+              "RelativeDocumentMoniker": "Sport\\REDBlyda.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDBlyda.xaml",
+              "RelativeToolTip": "Sport\\REDBlyda.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:01:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PTekVes.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PTekVes.xaml",
+              "RelativeDocumentMoniker": "Sport\\PTekVes.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PTekVes.xaml",
+              "RelativeToolTip": "Sport\\PTekVes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:00:59.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PolRedProfil.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PolRedProfil.xaml",
+              "RelativeDocumentMoniker": "Sport\\PolRedProfil.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PolRedProfil.xaml",
+              "RelativeToolTip": "Sport\\PolRedProfil.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:56:37.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PDobDiet.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobDiet.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\PDobDiet.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobDiet.xaml.cs",
+              "RelativeToolTip": "Sport\\PDobDiet.xaml.cs",
+              "ViewState": "AQIAAC0AAADgzMzMzMwiwH8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:23:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blyda.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Blyda.xaml",
+              "RelativeDocumentMoniker": "Sport\\Blyda.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Blyda.xaml",
+              "RelativeToolTip": "Sport\\Blyda.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:21:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ADMRedakProfilya.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMRedakProfilya.xaml",
+              "RelativeDocumentMoniker": "Sport\\ADMRedakProfilya.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMRedakProfilya.xaml",
+              "RelativeToolTip": "Sport\\ADMRedakProfilya.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:21:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\BDModel\\SportModel.edmx",
+              "RelativeDocumentMoniker": "Sport\\BDModel\\SportModel.edmx",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\BDModel\\SportModel.edmx [Diagram1]",
+              "RelativeToolTip": "Sport\\BDModel\\SportModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-11T14:19:46.571Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ADMIN.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMIN.xaml",
+              "RelativeDocumentMoniker": "Sport\\ADMIN.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\ADMIN.xaml",
+              "RelativeToolTip": "Sport\\ADMIN.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:19:00.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "REDProg.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDProg.xaml",
+              "RelativeDocumentMoniker": "Sport\\REDProg.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\REDProg.xaml",
+              "RelativeToolTip": "Sport\\REDProg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T09:11:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\App.xaml.cs",
+              "RelativeToolTip": "Sport\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:03:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zanatiya.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Zanatiya.xaml",
+              "RelativeDocumentMoniker": "Sport\\Zanatiya.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Zanatiya.xaml",
+              "RelativeToolTip": "Sport\\Zanatiya.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T08:40:37.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PDiet.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDiet.xaml",
+              "RelativeDocumentMoniker": "Sport\\PDiet.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDiet.xaml",
+              "RelativeToolTip": "Sport\\PDiet.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:41:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PProg.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PProg.xaml",
+              "RelativeDocumentMoniker": "Sport\\PProg.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PProg.xaml",
+              "RelativeToolTip": "Sport\\PProg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:39:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Prog.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Prog.xaml",
+              "RelativeDocumentMoniker": "Sport\\Prog.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Prog.xaml",
+              "RelativeToolTip": "Sport\\Prog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T09:10:56.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pol.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Pol.xaml",
+              "RelativeDocumentMoniker": "Sport\\Pol.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\Pol.xaml",
+              "RelativeToolTip": "Sport\\Pol.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:36:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDobDiet.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobDiet.xaml",
+              "RelativeDocumentMoniker": "Sport\\PDobDiet.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDobDiet.xaml",
+              "RelativeToolTip": "Sport\\PDobDiet.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:41:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sport\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\MainWindow.xaml",
+              "RelativeToolTip": "Sport\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:42:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sport\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACMAAACgmZmZmdknwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:42:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PDopProg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDopProg.xaml.cs",
+              "RelativeDocumentMoniker": "Sport\\PDopProg.xaml.cs",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDopProg.xaml.cs",
+              "RelativeToolTip": "Sport\\PDopProg.xaml.cs",
+              "ViewState": "AQIAAFsAAAAA/P////8fwHcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:48:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PDopProg.xaml",
+              "DocumentMoniker": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDopProg.xaml",
+              "RelativeDocumentMoniker": "Sport\\PDopProg.xaml",
+              "ToolTip": "C:\\Users\\Mystdwyse\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C \u0443\u043C\u043D\u0438\u0447\u043A\u0438\\DIPLOM_Demakova\\Sport\\PDopProg.xaml",
+              "RelativeToolTip": "Sport\\PDopProg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T08:41:26.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

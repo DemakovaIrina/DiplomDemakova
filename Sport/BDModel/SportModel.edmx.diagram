@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b7a64836beb6405c8120ed6ee350b62c" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Blyado" Width="1.5" PointX="12.5" PointY="5.25" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Dieta" Width="1.5" PointX="9.125" PointY="3.125" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_DN" Width="1.5" PointX="1.75" PointY="8.375" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Kyrs" Width="1.5" PointX="2" PointY="1.375" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Polzovatel" Width="1.5" PointX="4.875" PointY="3.875" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Programma" Width="1.5" PointX="1.875" PointY="4.75" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Rol" Width="1.5" PointX="8" PointY="7.125" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Ves" Width="1.5" PointX="5.25" PointY="9" />
+        <EntityTypeShape EntityType="user45_dbModel.DIP_Vremya" Width="1.5" PointX="12.5" PointY="3.125" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Dieta_DIP_Blyado" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Dieta_DIP_Polzovatel" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Dieta_DIP_Vremya" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Programma_DIP_DN" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Programma_DIP_Kyrs" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Polzovatel_DIP_Rol" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Programma_DIP_Polzovatel" />
+        <AssociationConnector Association="user45_dbModel.FK_DIP_Ves_DIP_Polzovatel" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
